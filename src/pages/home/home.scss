@@ -1,0 +1,20 @@
+page-home {
+	ion-navbar{
+		border-bottom:1vh solid #00acc1 ;
+	}
+	.scroll-content{
+		background:whitesmoke; 	
+	}
+	.item-cover{
+		border:1px solid #00acc1;
+		border-radius:2px;
+	}
+	ion-card-header{
+		background:#00acc1; 
+	}
+	.card-header {
+		padding: 16px;
+		font-size: 1.6rem;
+		color: white;
+	}
+}
